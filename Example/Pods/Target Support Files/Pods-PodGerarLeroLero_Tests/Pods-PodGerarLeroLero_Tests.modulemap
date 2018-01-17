@@ -1,0 +1,6 @@
+framework module Pods_PodGerarLeroLero_Tests {
+  umbrella header "Pods-PodGerarLeroLero_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

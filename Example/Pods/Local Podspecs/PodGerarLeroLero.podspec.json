@@ -1,0 +1,22 @@
+{
+  "name": "PodGerarLeroLero",
+  "version": "0.1.0",
+  "summary": "A short description of PodGerarLeroLero.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lgdomingues/PodGerarLeroLero",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lgdomingues": "le.gdomingues@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lgdomingues/PodGerarLeroLero.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodGerarLeroLero/Classes/**/*"
+}

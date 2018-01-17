@@ -1,0 +1,6 @@
+framework module PodGerarLeroLero {
+  umbrella header "PodGerarLeroLero-umbrella.h"
+
+  export *
+  module * { export * }
+}
